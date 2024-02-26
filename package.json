@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "react-scripts": "^5.0.1"
+  },
+  "name": "creating-package-manager",
+  "version": "1.0.0",
+  "description": "package manger",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silos007/Creating-Package-Manager.git"
+  },
+  "keywords": [
+    "PACKAGEMANAGEMENT"
+  ],
+  "author": "oolgaa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silos007/Creating-Package-Manager/issues"
+  },
+  "homepage": "https://github.com/silos007/Creating-Package-Manager#readme"
+}
